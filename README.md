@@ -23,6 +23,6 @@ Things you may want to cover:
 
 * ...
 ### 機能一覧
-言語
-* HTML,CSS<br>
-API：Google font
+-言語
+  - HTML,CSS<br>
+-API：Google font
